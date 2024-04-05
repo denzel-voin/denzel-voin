@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Denis!
 - 👀 I’m interested in Frontent development.
-- 🌱 I’m currently learning JavaScript.
+  https://www.codewars.com/users/denzel_vojn/badges/large
